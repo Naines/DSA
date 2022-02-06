@@ -11,6 +11,7 @@ public class boatsToSavePeople {
 
     static int numRescueBoats(int[] people, int limit) {
         Arrays.sort(people);
+        System.out.println("dhucss");
         int boats = 0;
         int i = 0, j = people.length - 1;
         while (i <= j) {
