@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch maxSumNoConsecutives",
+            "request": "launch",
+            "mainClass": "maxSumNoConsecutives",
+            "projectName": "(min-max_problems)Knapsack_9d2e4860"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch coin_change_ways",
+            "request": "launch",
+            "mainClass": "coin_change_ways",
+            "projectName": "(min-max_problems)Knapsack_9d2e4860"
+        },
+        {
+            "type": "java",
+            "name": "Launch comb_sum_types",
+            "request": "launch",
+            "mainClass": "comb_sum_types",
+            "projectName": "(min-max_problems)Knapsack_9d2e4860"
+        },
+        {
+            "type": "java",
+            "name": "Launch dice_roll_target_sum",
+            "request": "launch",
+            "mainClass": "dice_roll_target_sum",
+            "projectName": "(min-max_problems)Knapsack_9d2e4860"
+        },
+        {
+            "type": "java",
+            "name": "Launch friend_pairing",
+            "request": "launch",
+            "mainClass": "friend_pairing",
+            "projectName": "(min-max_problems)Knapsack_9d2e4860"
+        },
+        {
+            "type": "java",
+            "name": "Launch knapsack_0_1",
+            "request": "launch",
+            "mainClass": "knapsack_0_1",
+            "projectName": "(min-max_problems)Knapsack_9d2e4860"
+        },
+        {
+            "type": "java",
+            "name": "Launch last_stone",
+            "request": "launch",
+            "mainClass": "last_stone",
+            "projectName": "(min-max_problems)Knapsack_9d2e4860"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximum_cuts",
+            "request": "launch",
+            "mainClass": "maximum_cuts",
+            "projectName": "(min-max_problems)Knapsack_9d2e4860"
+        },
+        {
+            "type": "java",
+            "name": "Launch min_coins_coin_change",
+            "request": "launch",
+            "mainClass": "min_coins_coin_change",
+            "projectName": "(min-max_problems)Knapsack_9d2e4860"
+        },
+        {
+            "type": "java",
+            "name": "Launch min_cost_for_travel",
+            "request": "launch",
+            "mainClass": "min_cost_for_travel",
+            "projectName": "(min-max_problems)Knapsack_9d2e4860"
+        },
+        {
+            "type": "java",
+            "name": "Launch min_jumps",
+            "request": "launch",
+            "mainClass": "min_jumps",
+            "projectName": "(min-max_problems)Knapsack_9d2e4860"
+        },
+        {
+            "type": "java",
+            "name": "Launch partition_equal_sum_subset",
+            "request": "launch",
+            "mainClass": "partition_equal_sum_subset",
+            "projectName": "(min-max_problems)Knapsack_9d2e4860"
+        },
+        {
+            "type": "java",
+            "name": "Launch partition_subset",
+            "request": "launch",
+            "mainClass": "partition_subset",
+            "projectName": "(min-max_problems)Knapsack_9d2e4860"
+        },
+        {
+            "type": "java",
+            "name": "Launch perfectSquares",
+            "request": "launch",
+            "mainClass": "perfectSquares",
+            "projectName": "(min-max_problems)Knapsack_9d2e4860"
+        }
+    ]
+}

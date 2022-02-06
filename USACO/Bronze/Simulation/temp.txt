@@ -1,0 +1,43 @@
+static class Reader {
+        BufferedReader br;
+        StringTokenizer st;
+
+        Reader() {
+            br = new BufferedReader(new InputStreamReader(System.in));
+        }
+
+        Reader(String name) {
+            try {
+
+                br = new BufferedReader(new FileReader(name + ".in"));
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+
+        String next() {
+            try {
+                while (st == null || !st.hasMoreTokens())
+                    st = new StringTokenizer(br.readLine());
+                return st.nextToken();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+            return st.nextToken();
+        }
+
+        int nextInt() {
+            return Integer.parseInt(next());
+        }
+
+        String nextLine() {
+            String str = "";
+            try {
+                str = br.readLine();
+            } catch (Exception e) {
+                e.printStackTrace();
+
+            }
+            return str;
+        }
+    }

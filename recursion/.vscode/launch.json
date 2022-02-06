@@ -1,0 +1,315 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch nQueens",
+            "request": "launch",
+            "mainClass": "practise.nQueens",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch suduko",
+            "request": "launch",
+            "mainClass": "suduko",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryWatch_Method2",
+            "request": "launch",
+            "mainClass": "BinaryWatch_Method2",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryWatch_Method1",
+            "request": "launch",
+            "mainClass": "BinaryWatch_Method1",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch LetterCombinationsOfAPhoneNumber",
+            "request": "launch",
+            "mainClass": "LetterCombinationsOfAPhoneNumber",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch generateParenthesis",
+            "request": "launch",
+            "mainClass": "generateParenthesis",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch kthPermOfASequence",
+            "request": "launch",
+            "mainClass": "kthPermOfASequence",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch KequalSumSubset",
+            "request": "launch",
+            "mainClass": "KequalSumSubset",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindromePartitions",
+            "request": "launch",
+            "mainClass": "palindromePartitions",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestpathHurdles",
+            "request": "launch",
+            "mainClass": "LongestpathHurdles",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch totalPathsTopToBottomRight",
+            "request": "launch",
+            "mainClass": "totalPathsTopToBottomRight",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShortestSafePathToEndColumn",
+            "request": "launch",
+            "mainClass": "ShortestSafePathToEndColumn",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch wordBreak",
+            "request": "launch",
+            "mainClass": "practise.wordBreak",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsetSum_",
+            "request": "launch",
+            "mainClass": "SubsetSum_",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch equalSumSubset",
+            "request": "launch",
+            "mainClass": "equalSumSubset",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch isPartitionPossible",
+            "request": "launch",
+            "mainClass": "practise.isPartitionPossible",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch combSum",
+            "request": "launch",
+            "mainClass": "practise.combSum",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch permutations",
+            "request": "launch",
+            "mainClass": "practise.permutations",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch wordbreak",
+            "request": "launch",
+            "mainClass": "wordbreak",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nqueens",
+            "request": "launch",
+            "mainClass": "Nqueens",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch combinationalSum",
+            "request": "launch",
+            "mainClass": "combinationalSum",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch permutations_bfs",
+            "request": "launch",
+            "mainClass": "backtracking.permutations_bfs",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch permutations",
+            "request": "launch",
+            "mainClass": "permutations",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch subsetNoDupes",
+            "request": "launch",
+            "mainClass": "subsetNoDupes",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch subsets",
+            "request": "launch",
+            "mainClass": "subsets",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch knight",
+            "request": "launch",
+            "mainClass": "knight",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch KnightsTour",
+            "request": "launch",
+            "mainClass": "KnightsTour",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kinght",
+            "request": "launch",
+            "mainClass": "backtracking.Kinght",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsetSum",
+            "request": "launch",
+            "mainClass": "SubsetSum",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsetsWithGivenDifference",
+            "request": "launch",
+            "mainClass": "SubsetsWithGivenDifference",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch allPermString",
+            "request": "launch",
+            "mainClass": "allPermString",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch allsubsets",
+            "request": "launch",
+            "mainClass": "allsubsets",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nqueens",
+            "request": "launch",
+            "mainClass": "backtracking.Nqueens",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rat_in_a_maze",
+            "request": "launch",
+            "mainClass": "backtracking.Rat_in_a_maze",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rat_in_a_maze_path",
+            "request": "launch",
+            "mainClass": "backtracking.Rat_in_a_maze_path",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch knight_tour",
+            "request": "launch",
+            "mainClass": "backtracking.knight_tour",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch wordbreak",
+            "request": "launch",
+            "mainClass": "backtracking.wordbreak",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch backtracking_basics",
+            "request": "launch",
+            "mainClass": "backtracking_basics",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch basics",
+            "request": "launch",
+            "mainClass": "basics",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkifpowersofn",
+            "request": "launch",
+            "mainClass": "checkifpowersofn",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch countSubsetsWithGivenSum",
+            "request": "launch",
+            "mainClass": "countSubsetsWithGivenSum",
+            "projectName": "recursion_580fd6c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch equalSumpartition",
+            "request": "launch",
+            "mainClass": "equalSumpartition",
+            "projectName": "recursion_580fd6c0"
+        }
+    ]
+}

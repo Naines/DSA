@@ -1,0 +1,9 @@
+1. BASIC LCS ✅
+2. SPACE optimized LCS ✅
+3. printing LCS ✅
+4. minimum insertions and deletions conv s1 -> s2 ✅
+5. shortest common supersequence
+6. longest palindromic subsequence ✅
+7. longest repeating sunbsequence
+8. eDIT DISTANCE  ✅
+9. DISTINCT subsequence  ✅

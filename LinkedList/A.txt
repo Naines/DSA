@@ -1,0 +1,28 @@
+1. multiple pointers:
+    Reverse linked list-recur, itr
+    reverse linked list k groups
+    kthFromEnd
+
+    floyd algo:
+    detect and remove cycle ..
+    start point of the linked list
+    middle element
+    kth from end
+
+2. Single ll: ops
+add one to ll
+add 2 ll
+intersection point of two ll
+intersection point of two sorted ll
+merge sort, quick sort
+
+3. LL ops:
+    isPalin
+    MergeKLists
+    FlattenLL: right, down
+    Segregate 0, 1, 2
+    
+
+
+
+

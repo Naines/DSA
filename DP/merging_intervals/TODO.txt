@@ -1,0 +1,9 @@
+1. MCM ✅
+2. Print Brackets  ✅
+3. Max Minm In Exp  ✅
+4. Optimal strategy Game ✅
+5. Count BST  ✅
+6. Palindrome Partitioning ✅
+7. Allocate min Pages 
+8. Egg Drop Problem✅
+9. Burst balloons

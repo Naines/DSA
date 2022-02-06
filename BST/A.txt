@@ -1,0 +1,23 @@
+1. Basics:  insert, inorder, count, min, max, delete, leaf nodes ✅
+2. SumEle,  ISBST, LCA, PrintPath,   ✅
+
+pending: sumTree, DistBEtween2Nodes
+
+3.Convert normal BSt to balanced Bst - inorder -> store nodes to array -> make BST again
+  BST to GREATER sumTree 
+  Convert BT to BSt - inorder, sort and replace nodes .
+  Construct bst from preorder transversal-O(n)by storing min max limits
+                                      -O(n^2) by making BST from pre
+  Merge 2 BST= inorder both, merge them in sorted array and make bST.
+
+4. Validate preorder valid or not.  ✅
+    count pairs to give sum x.
+    Find floor, ceil. 
+
+5. Morris inorder+postorder transversal + Kth smallest
+Median of bst in O(n) and O(1).
+  Replace every element with least greater ele on its right.
+  n appointments - find conflicting appointments
+  largest bst in BST
+  flatten BST to sorted list
+  whether BST contains dead end.

@@ -1,0 +1,14 @@
+1. minimum deletions to make array sorted
+2. maxm sum increasing subsequence
+3. max length bitonic subsequence
+4. building bridges
+5. longest pair of chains
+
+6.Longest Increasing Subsequence variants:(leetcode list)
+https://leetcode.com/problems/longest-increasing-subsequence/   Easy
+https://leetcode.com/problems/largest-divisible-subset/         Medium
+https://leetcode.com/problems/russian-doll-envelopes/           
+https://leetcode.com/problems/maximum-length-of-pair-chain/     Medium
+https://leetcode.com/problems/number-of-longest-increasing-subsequence/ Hard    
+https://leetcode.com/problems/delete-and-earn/  Medium
+https://leetcode.com/problems/longest-string-chain/

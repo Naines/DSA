@@ -1,0 +1,3 @@
+Phase 1. Knighttour,print all binary,all permutations of a string, Rat in a maze, n-queens, suduko solver, 
+    invalid parenthesis, word break, palindromic partitions, sunset sum problem,Tug of war.
+Phase 2. Shortest safe route, Combinational Sum, Max. Possible number by doing at most k swaps, 

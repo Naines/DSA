@@ -1,0 +1,12 @@
+1. Coin_change ways to obtain sum ✅
+2. Coin_change min coins reqd ✅
+3. Comb_sum possible combinations✅
+4. Dice roll to atttain target ways(one throw per dice)✅
+5. perfect squares✅
+6. Min_cost for travel✅
+
+
+7. Min_jumps to reach target
+8. Maximum cuts✅
+9. 0-1 knapsack✅
+10. Count subsets
