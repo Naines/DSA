@@ -1,4 +1,6 @@
 public class maxProductSubArray1 {
+
+    //TODO: incorrect sol, lacks corner case
     static void solve(int arr[])
     {
         long max_end=1, min_end=1, prod=1;
@@ -29,6 +31,7 @@ public class maxProductSubArray1 {
         System.out.println(prod);
     }
 
+    //TODO: incorrect sol, lacks corner case
     static void solve2(int arr[])
     {
          long maxP=1, minP=1, res=1; 
@@ -49,6 +52,22 @@ public class maxProductSubArray1 {
         }
         System.out.println(res);
     }
+
+     public int maxProduct(int[] arr) {
+     int maxP = arr[0], minP= arr[0],ans = arr[0];
+        for(int i=1;i<arr.length;i++){
+            if(arr[i]<0){
+                int temp = maxP;
+                maxP= minP;
+                minP = temp;
+            }
+            maxP = Math.max(maxP*arr[i], arr[i]);
+            minP = Math.min(minP*arr[i], arr[i]);
+            ans = Math.max(maxP, ans);
+        }
+        return ans;
+    }
+
     public static void main(String[] args) {
         int arr[]={5,-5,8,2,-1,3};
         solve(arr);
