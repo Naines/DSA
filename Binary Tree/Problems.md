@@ -1,6 +1,6 @@
 https://www.geeksforgeeks.org/dsa/top-50-tree-coding-problems-for-interviews/
 
-- Easy Problems:
+- Easy Problems:  
 Height of Binary Tree  
 Determine if two trees are identical  
 Mirror tree  
@@ -13,7 +13,7 @@ Inorder Successor in BST
 Kth Largest Element in a BST  
 Balance a BST  
 
-- Medium Problems:
+- Medium Problems:  
 
 Diameter of tree  
 Check if subtree  
@@ -40,6 +40,7 @@ Connect nodes at same level
 
 
 - Hard Problems:
+  
 Sorted Linked List to BST  
 Binary Tree to Doubly Linked List  
 Maximum sum path between two leaf nodes  
