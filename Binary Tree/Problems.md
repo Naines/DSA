@@ -1,51 +1,51 @@
 https://www.geeksforgeeks.org/dsa/top-50-tree-coding-problems-for-interviews/
 
 - Easy Problems:
-Height of Binary Tree
-Determine if two trees are identical
-Mirror tree
-Symmetric Tree
-Checked for Balanced tree
-Children Sum Parent
-Array to BST
-Nodes at given distance in a Binary Tree
-Inorder Successor in BST
-Kth Largest Element in a BST
-Balance a BST
+Height of Binary Tree  
+Determine if two trees are identical  
+Mirror tree  
+Symmetric Tree  
+Checked for Balanced tree  
+Children Sum Parent  
+Array to BST  
+Nodes at given distance in a Binary Tree  
+Inorder Successor in BST  
+Kth Largest Element in a BST  
+Balance a BST  
 
 - Medium Problems:
 
-Diameter of tree
-Check if subtree
-Check for BST
-Single Valued Subtree
-Unique BSTs
-Zigzag Tree Traversal
-Vertical Traversal of a Binary Tree
-Boundary Traversal
-Construct Binary Tree from Preorder and Inorder Traversal
-Construct BST from preorder traversal
-Minimum distance between two nodes
-Maximum sum leaf to root path
-Odd Even Level Difference
-Lowest Common Ancestor of a Binary Tree
-Ancestors in Binary Tree
-Remove BST keys outside the given range
-Pair with given target in BST
-BST to greater sum tree
-Maximum sum of non adjacent nodes
-Largest BST in a Binary Tree
-Extreme nodes in alternate order
-Connect nodes at same level
+Diameter of tree  
+Check if subtree  
+Check for BST  
+Single Valued Subtree  
+Unique BSTs  
+Zigzag Tree Traversal  
+Vertical Traversal of a Binary Tree  
+Boundary Traversal  
+Construct Binary Tree from Preorder and Inorder Traversal  
+Construct BST from preorder traversal  
+Minimum distance between two nodes  
+Maximum sum leaf to root path  
+Odd Even Level Difference  
+Lowest Common Ancestor of a Binary Tree  
+Ancestors in Binary Tree  
+Remove BST keys outside the given range  
+Pair with given target in BST  
+BST to greater sum tree  
+Maximum sum of non adjacent nodes  
+Largest BST in a Binary Tree  
+Extreme nodes in alternate order  
+Connect nodes at same level  
 
 
 - Hard Problems:
-Sorted Linked List to BST
-Binary Tree to Doubly Linked List
-Maximum sum path between two leaf nodes
-K-Sum Paths
-Number of turns in a binary tree
-Merge two BST’s
-Fixing two nodes of a BST
-Burn Binary Tree
-Clone binary tree with random pointer
+Sorted Linked List to BST  
+Binary Tree to Doubly Linked List  
+Maximum sum path between two leaf nodes  
+K-Sum Paths  
+Number of turns in a binary tree  
+Merge two BST’s  
+Fixing two nodes of a BST  
+Burn Binary Tree  
+Clone binary tree with random pointer  
