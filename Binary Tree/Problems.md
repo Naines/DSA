@@ -1,7 +1,6 @@
 https://www.geeksforgeeks.org/dsa/top-50-tree-coding-problems-for-interviews/
 
 - Easy Problems:
-
 Height of Binary Tree
 Determine if two trees are identical
 Mirror tree
