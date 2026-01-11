@@ -21,3 +21,5 @@ Median of bst in O(n) and O(1).
   largest bst in BST
   flatten BST to sorted list
   whether BST contains dead end.
+
+https://leetcode.com/discuss/post/7479385/essential-tree-problems-to-solve-before-hunbh/
